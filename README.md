@@ -6,4 +6,4 @@
 下面是模拟登录的演示：
 
 
-![image](https://github.com/hfxjd9527/52pojie_login/blob/master/52pojie.gif)
+![image](https://github.com/hfxjd9527/52pojie_login/blob/master/pojie.gif)
