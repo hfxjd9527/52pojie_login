@@ -114,10 +114,6 @@ class Pojie:
             exit(0)
 
 
-def ceshi():
-    print('hello world')
-
-
 if __name__ == '__main__':
     p = Pojie()
     p.pojie_slider()
